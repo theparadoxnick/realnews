@@ -1,7 +1,8 @@
 # RealNews :newspaper:
-_Português: O jornal RealNews precisava desenvolver um novo sistema para o portal de notícias. Eu fui o responsável por esse trabalho. O sistema possui área para cadastro, alteração, exclusão e listagem das notícias do portal. Além disso, os visitantes poderão comentar nas notícias, bastando que o usuário informe seu nome e o texto do comentário.
 
-_English: The RealNews newspaper needed to develop a new system for the news portal. I was responsible for this work. The system has an area for registering, altering, deleting and listing news from the portal. In addition, visitors will be able to comment on the news by simply providing the user with their name and the text of the comment.
+Português: O jornal RealNews precisava desenvolver um novo sistema para o portal de notícias. Eu fui o responsável por esse trabalho. O sistema possui área para cadastro, alteração, exclusão e listagem das notícias do portal. Além disso, os visitantes poderão comentar nas notícias, bastando que o usuário informe seu nome e o texto do comentário.
+
+English: The RealNews newspaper needed to develop a new system for the news portal. I was responsible for this work. The system has an area for registering, altering, deleting and listing news from the portal. In addition, visitors will be able to comment on the news by simply providing the user with their name and the text of the comment.
 
 ### Getting started
 
