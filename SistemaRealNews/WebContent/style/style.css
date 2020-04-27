@@ -1,0 +1,140 @@
+body {
+	background: linear-gradient(0deg, rgb(218, 139, 139) 0%, rgba(255,255,255,1) 100%);	
+	width: auto;
+	height: 100vw;
+	overflow: hidden;
+	font-family: sans-serif;
+	color: #222;
+	padding: 0;
+	margin: 0;
+}
+
+body.-posts {
+	overflow: auto!important;
+	height: auto!important;
+}
+
+.formulario {
+    display: inline-grid;
+}
+
+.container {
+    max-width: 700px;
+	padding: 20px;
+}
+
+.content {
+	padding: 20px;
+}
+		
+.logo {
+	font-family: sans-serif;
+    margin-right: 50px;
+	text-align: center;
+}
+
+.logo.-dark {
+	margin-right: 0;
+	text-align: left;
+}
+
+.logo a.-dark {
+	color: #545454;
+	text-align: left;
+}
+
+.logo a {
+	text-decoration: overline;
+    text-transform: uppercase;
+    font-weight: 100;
+    letter-spacing: 8px;
+    color: #fff;
+    
+}
+
+.navbar {
+	display: flex;
+  	align-items: center;
+	position: absolute;
+    top: 0;
+    z-index: 1;
+    padding: 40px;
+    width: 100%;
+}
+
+.wrap {
+	height: 500px;
+	overflow: hidden;
+	padding: 20px;
+}
+
+.navbar__background {
+	width: 100%;
+}
+
+.title {
+	color: #f96c6c;
+}
+
+.caption {
+	color: #3c3c3c;
+}
+
+.navbar__list {
+	display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    margin: 0;
+}
+
+.navbar__list li {
+    display: block;
+    padding: 0 20px;
+}
+
+.navbar__list a {
+	text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+  		color: #fff;
+  		transition: .1s ease;
+  		font-family: sans-serif;
+  		font-weight: 100;
+  		letter-spacing: 2px;
+}
+
+.navbar__list a:hover {
+	color: #f3b1b1;
+}
+
+.button {
+    background-color: transparent;
+    border: 1px solid #3e3e3e;
+    padding: 10px;
+    color: #3e3e3e;
+    cursor: pointer;
+    transition: .2s ease;
+    outline: none;
+}
+
+.button:hover {
+	background-color: #3e3e3e;
+	color: #fff;
+}
+
+.clean {
+    background-color: transparent;
+    border: 1px solid #2196F3;
+    padding: 10px;
+    color: #2196F3;
+    cursor: pointer;
+    transition: .2s ease;
+    outline: none;
+}
+
+.clean:hover {
+	background-color: #2196F3;
+	color: #fff;
+}

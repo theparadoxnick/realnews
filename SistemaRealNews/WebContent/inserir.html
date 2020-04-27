@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>RealNews | Inserção</title>
+		<link rel="stylesheet" href="style/style.css" />
+</head>
+<body>
+	<div class="content">	
+		<h2 class="title">Inserir uma notícia:</h2>
+		
+		<form class="formulario" action= "Inserir_Noticia.do" method ="post">
+			<label for="fid">ID Notícia:</label>
+	      	<input id="fid" type="number" name ="id_noticia" > <br>
+	      	<label for="ftitulo">Título</label>
+	      	<input id="ftitulo" type = "text" name ="titulo_noticia"> <br>
+	      	<label for="fdescricao">Descrição</label>
+	      	<textarea id="fdescricao" name="descricao_noticia" cols="40" rows="3"></textarea> <br>
+	      	<label for="ftexto">Texto</label>
+	      	<textarea id="ftexto" name="texto_noticia" cols="40" rows="5"></textarea><br><br>
+	      	<input class="clean" type="reset" value="Limpar" >
+	      	<input class="button" type = "submit" value="Inserir notícia">
+	 	</form>
+	</div>
+</body>
+</html>
