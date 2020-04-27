@@ -1,4 +1,4 @@
-# RealNews :newspaper:
+# :newspaper: RealNews 
 
 Português: O jornal RealNews precisava desenvolver um novo sistema para o portal de notícias. Eu fui o responsável por esse trabalho. O sistema possui área para cadastro, alteração, exclusão e listagem das notícias do portal. Além disso, os visitantes poderão comentar nas notícias, bastando que o usuário informe seu nome e o texto do comentário.
 
